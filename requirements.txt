@@ -1,0 +1,14 @@
+datasets
+transformers
+sentence_transformers
+torch
+torchvision
+torchaudio
+matplotlib
+seaborn
+faiss-cpu
+accelerate
+peft
+trl
+bitsandbytes
+wandb
